@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Hej</title>
+    </head>
+    <body>
+        <h2>Hejsan</h2>
+    </body>
+</html>
